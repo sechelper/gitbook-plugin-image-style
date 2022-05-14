@@ -1,7 +1,7 @@
 img[src*="#img-circular-shadow"] {
 	display:block;
 	margin: 0 auto;
-	max-width: 720px; 
+	max-width: 720px !important; 
 	height: auto;
 	border-radius: 10px;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.5);
@@ -9,8 +9,7 @@ img[src*="#img-circular-shadow"] {
 	-webkit-box-shadow: 10px 10px 10px rgba(0,0,0,.5);
 	overflow: hidden
  }
-
-img[src*="#image_center"] {
+img {
 	display:block;
 	margin: 0 auto;
 }
