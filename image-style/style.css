@@ -1,0 +1,16 @@
+img[src*="#img-circular-shadow"] {
+	display:block;
+	margin: 0 auto;
+	max-width: 720px; 
+	height: auto;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+	-moz-box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+	-webkit-box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+	overflow: hidden
+ }
+
+img[src*="#image_center"] {
+	display:block;
+	margin: 0 auto;
+}
