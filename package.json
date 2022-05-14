@@ -2,14 +2,14 @@
   "name": "gitbook-plugin-image-style",
   "description": "Image style plugin for GitBook",
   "main": "index.js",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "gitbook": "*"
   },
   "homepage": "https://github.com/sechelper/gitbook-plugin-image-style",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sechelper/gitbook-plugin-image-style.git"
+    "url": "https://github.com/sechelper/gitbook-plugin-image-style.git"
   },
   "license": "Apache-2.0",
   "bugs": {
@@ -21,10 +21,7 @@
   "keywords": [
     "gitbook",
     "markdown",
-    "images style"
+    "images-style"
   ],
-  "author": "cookun",
-  "dependencies": {
-    "gitbook-plugin-image-style": "^0.0.1"
-  }
+  "author": "cookun"
 }
